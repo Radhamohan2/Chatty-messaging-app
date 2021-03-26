@@ -1,0 +1,20 @@
+{
+  "name": "chatty",
+  "version": "1.0.0",
+  "description": "chat app with custom rooms",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev":"nodemon server"
+  },
+  "author": "Radha Mohan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "socket.io": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
