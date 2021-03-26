@@ -1,5 +1,5 @@
 # Chatty-messaging-app
-Chatty is "socket.io" based messaging app that is created using NodeJs and Express.It is cleint side web app so privacy is well maitained at both the end.One can join various room,have list of currentlly connected users and much more.Following are the screenshots of home page and chat terminal respectively.
+Chatty is "socket.io" based messaging app that is created using NodeJs and Express. It is client side web app so privacy is well maintained at both the end.One can join various room,have list of currentlly connected users and much more.Following are the screenshots of home page and chat terminal respectively.
 
 # Home Page
 ![Screenshot](Screenshot1.png)
